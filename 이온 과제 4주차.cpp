@@ -5,7 +5,7 @@ int main()
 {
 	int arr[6];
 	int i, j , k;
-	printf("6°³ÀÇ ¼ıÀÚ¸¦ ÀÔ·ÂÇÏ¼¼¿ä : ");
+	printf("6ê°œì˜ ìˆ«ìë¥¼ ì…ë ¥í•˜ì‹œì˜¤ : ");
 	scanf("%d, %d, %d, %d, %d, %d", &arr[0], &arr[1], &arr[2], &arr[3], &arr[4], &arr[5]);
 
 	for (i = 0; i < 6; i++) {
